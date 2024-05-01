@@ -1,5 +1,6 @@
 # NordPool data to XML from UMM with Python 3
-This script enables one to do what the title says  
+The script's purpose is in the title  
+
 Run:  
 ```pipenv install``` to recreate the configured virtual environment  
 ```pipenv run python3 main.py --url https://ummapi.nordpoolgroup.com/messages -l 1 -e```  
